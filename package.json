@@ -1,5 +1,5 @@
 {
-  "name": "@singularity/custom-authentication-plugin",
+  "name": "@jitinmaher/custom-authentication-plugin",
   "version": "1.0.1",
   "description": "CustomAuth login with torus to get user private-key",
   "main": "dist/customauth.cjs.js",
