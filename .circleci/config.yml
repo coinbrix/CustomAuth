@@ -11,9 +11,9 @@ jobs:
 
     steps:
       - checkout
-      - run: yarn
-      - run: yarn javascript-obfuscator index.js --output index.js
-      - run: yarn semantic-release #Release to npm
+      - run: npm install
+      - run: npm run build
+      - run: npm run semantic-release #Release to npm
 
 workflows:
   test-build-and-publish:
