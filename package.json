@@ -80,12 +80,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/torusresearch/CustomAuth.git"
+    "url": "git+https://github.com/coinbrix/CustomAuth.git"
   },
   "bugs": {
-    "url": "https://github.com/torusresearch/CustomAuth/issues"
+    "url": "https://github.com/coinbrix/CustomAuth/issues"
   },
-  "homepage": "https://github.com/torusresearch/CustomAuth#readme",
+  "homepage": "https://github.com/coinbrix/CustomAuth#readme",
   "keywords": [
     "CustomAuth",
     "customauth",
