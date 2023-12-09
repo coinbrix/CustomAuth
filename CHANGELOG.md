@@ -1,5 +1,13 @@
 # Semantic Versioning Changelog
 
+## [1.0.5](https://github.com/coinbrix/CustomAuth/compare/v1.0.4...v1.0.5) (2023-12-9)
+
+
+### Bug Fixes
+
+* update package name ([3445224](https://github.com/coinbrix/CustomAuth/commit/344522401bce2b5be0c940fdd8e6fd2e982ca195))
+* update package name ([ae9a419](https://github.com/coinbrix/CustomAuth/commit/ae9a4192283fd3aefd42f5e868ccf4ef0ca3f03a))
+
 ## [1.0.4](https://github.com/coinbrix/CustomAuth/compare/v1.0.3...v1.0.4) (2023-12-9)
 
 
