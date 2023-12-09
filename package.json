@@ -11,6 +11,7 @@
     "build": "torus-scripts build",
     "start": "torus-scripts start",
     "release": "torus-scripts release",
+    "semantic-release": "semantic-release",
     "lint:ts": "eslint --fix 'src/**/*.ts'",
     "prepack": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1",
